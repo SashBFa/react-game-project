@@ -1,0 +1,10 @@
+.card{
+  width: 20rem;
+  margin: 1rem;
+  border: 0.1rem black solid;
+  border-radius: 1rem;
+  &__img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+  }
+}
